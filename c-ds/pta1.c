@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+#define max 100
 int main(){
     int n;
     scanf("%d",&n);
